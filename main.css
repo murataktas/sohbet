@@ -1,0 +1,33 @@
+#sohbetFrame{
+    width: 250px;
+    height: 400px;
+    visibility: visible;
+    background-color: lightgrey;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
+
+ #sohbet{
+     float: left;
+     width: 250px;
+     height: 300px;
+     
+ }
+  #sohbet #isim{
+      float: left;
+      margin:10px 10px;
+  }
+
+#sohbet #mesaj{
+    float: left;
+    margin: 10px 10px;
+    border:  1px solid white;
+    width: 225px;
+    height: 225px;
+    overflow: scroll;
+}
+ #input{
+     float: left;
+     margin-left: 10px;
+ }
